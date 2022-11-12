@@ -1,0 +1,47 @@
+.Stomach
+{
+    background: url('../../img/44.jpg') center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    padding: 30px 0px;
+    text-align: center;
+}
+.Stomach .row
+{
+    margin: 50px 0px;
+}
+.Stomach h2
+{
+  font-size: 35px;
+  font-weight: bold;
+  width: 100%;
+  color: #77132b;
+  font-family: 'Tajawal',sans-serif;
+  margin-top: 15px;
+  margin-bottom: 18px;
+ 
+}
+.Stomach .mytextstomach
+{
+    font-family: 'Tajawal',sans-serif;
+}
+.Stomach .bbcv
+{
+    background-color: #77132b;
+    border: 2px solid #77132b ;
+    width: 180px;
+    height: 50px;
+    font-weight: bold;
+    font-family: 'Tajawal',sans-serif;
+    margin-top: 18px;
+    color: white;
+    text-align: center;
+    transition: 0.3s ease-in-out;
+
+}
+.Stomach .bbcv:hover
+{
+    background-color: transparent;
+    color: black;
+}

@@ -1,0 +1,43 @@
+.ContactUs
+{
+  margin-top: 65px;
+  padding: 25px 0px;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+
+}
+.ContactUs h2 ,p
+{
+    text-align: center;
+    font-family: 'Tajawal',sans-serif;
+    font-weight: bold;
+}
+.ContactUs h2
+{
+    color: #551825;
+    font-size: 43px;
+}
+.ContactUs .row:last-child
+{
+    margin: 10px 0px;
+}
+.ContactUs .btn-danger
+{
+    width: 180px;
+    height: 40px;
+    background-color: #942d44 !important;
+    border: 2px solid  #942d44 ;
+    color:white;
+    font-weight: bold;
+    font-family: 'Tajawal', sans-serif;
+    transition: 0.3s ease-in-out;
+
+}
+.ContactUs .btn-danger:hover
+{
+    background-color: transparent !important;
+    color : black
+    
+}
+

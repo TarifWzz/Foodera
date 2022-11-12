@@ -1,0 +1,78 @@
+.myorder
+{
+  margin-top: 50px;
+  padding: 25px 0px;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+
+}
+
+.myorder .row:first-child
+{
+    text-align: center;
+    margin: 25px 0px;
+}
+
+.myorder h2
+{
+    font-size: 35px;
+    font-weight:bold ;
+    width: 100%;
+    margin: 10px 0px;
+    color: #333;
+    font-family: 'Tajawal',sans-serif;
+
+}
+.myorder .textorder
+{
+    font-family: 'Tajawal',sans-serif;
+    font-weight:400;
+    font-size: 18px;
+}
+.myorder .mybox h5
+{
+    color: #43121d;  
+    font-family: 'Tajawal',sans-serif;
+    font-weight: 600;
+    font-size: 23px;
+    margin: 10px 0px;
+
+}
+.myorder .mybox span
+{
+    display: block;
+    color: #444;
+    font-family: 'Tajawal',sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin:10px 0px ;
+}
+.myorder .mybox h4{
+    color: #a82d49;
+    font-family: 'Tajawal',sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.myorder .bbnm
+{
+    width: 150px;
+    height: 50px;
+    background-color: #740c24;
+    border:2px solid  #740c24 ;
+    color: white;
+    font-weight: bold;
+    font-family: 'Tajawal',sans-serif;
+    margin: 10px 0px;
+    transition: 0.3s ease-in-out;
+
+}
+.myorder .bbnm:hover{
+    background-color: transparent;
+    color: #740c24;
+}
+.myorder .mybox
+{
+    margin:20px 0px ;
+}

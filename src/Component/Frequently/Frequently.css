@@ -1,0 +1,43 @@
+.Frequen h2
+{
+    font-size: 35px;
+    font-weight:bold ;
+    width: 100%;
+    text-align: center;
+    margin: 10px 0px;
+    color: #43121d;
+    font-family: 'Tajawal',sans-serif;
+}
+
+.Frequen .row h5
+{
+    color: #8b3749;
+    font-family: 'Tajawal',sans-serif,700;
+}
+.Frequen .row p
+{
+    color: rgb(85, 85, 85);
+    margin-bottom: 3rem;
+    font-family: 'Tajawal',sans-serif;
+    text-align: start;
+}
+
+.Frequen .row
+{
+    margin:  30px 0px;
+}
+.Frequen .row:first-child
+{
+    margin: 80px 0px ; 
+}
+
+.Frequen .row:nth-child(2)
+{
+    margin: 0px 10px;
+    width: 100%;
+}
+.Frequen .row:nth-child(3)
+{
+    margin: 0px 10px;
+    width: 100%;
+}

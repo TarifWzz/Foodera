@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400&display=swap');
+.numbers
+{
+    background-color:#a82d49 ;
+    padding: 25px 0px ;
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+    overflow: hidden;
+    font-family: 'Tajawal', sans-serif,400 ;
+    
+    
+}
+.numbers .row
+{
+    margin: 10px 0px;
+}
+
+.numbers h2 ,h6
+{
+    color: white;
+    font-weight: 700;
+}
+
+.numbers h2
+{
+    font-size: 37px;
+    margin: 10px 0px;
+}

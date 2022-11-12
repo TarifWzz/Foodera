@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400&display=swap');
+.pride
+{
+    max-width: 100%;
+    overflow: hidden;
+    height: auto;
+    margin-top: 70px;
+    padding: 25px 0px;
+}
+
+.pride h1
+{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 10px 0px;
+    font-family: 'Tajawal' ,sans-serif;
+    color: #43121d;
+    line-height: 60px;
+}
+.pride p{
+    font-family: 'Tajawal' ,sans-serif;
+    line-height: 20px;
+    color: #333;
+    font-size: 18px;
+}
+
+.pride .btb
+{
+   
+    background-color: #a82d49 !important;
+    border: 2px solid #a82d49;
+    color: white;
+    box-sizing: border-box;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+    transition: 0.3s ease-in ;
+}
+.pride .btb:hover
+{
+    
+    color: black;
+    background-color: transparent !important;
+}

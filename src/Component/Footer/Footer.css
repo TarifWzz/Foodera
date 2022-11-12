@@ -1,0 +1,16 @@
+.Footer
+{
+     background-color: #621728;
+}
+.cvc
+{
+    position: relative;
+    left: 10px;
+}
+.copyright  .tt
+{
+  color : white;
+  font-weight: bold;
+  font-family: 'Tajawal',sans-serif;
+  font-size: 18px;
+}

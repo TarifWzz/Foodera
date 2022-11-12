@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400&display=swap');
+.possible
+{
+    padding: 30px 0px ;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    font-family: 'Tajawal', sans-serif,400 ;
+}
+
+.possible .row
+{
+    margin: 78px 0px;
+}
+
+.possible h2
+{
+    font-family: 'Tajawal', sans-serif,600 ;
+    font-size:36px ;
+    color: #43121d;
+}
+
+.possible .mytext
+{
+    font-size: 18px;
+    font-family: 'Tajawal', sans-serif;
+    margin-top: 22px;
+}
+.possible .mycheck
+{
+    margin-top: 18px;
+}
+.possible .mycheck .bx-check
+{
+    font-weight: bold;
+    font-size: 31px;
+    position: relative;
+    top: 9px;
+}
+.possible .bbta
+{
+    width: 150px;
+    height: 50px;
+    background-color: #a82c48 ;
+    border: 2px solid  #a82c48;
+    color: white;
+    margin-top: 15px;
+    font-weight: bold;
+    transition: 0.3s ease-in-out;
+
+}
+.possible .bbta:hover
+{
+    background-color: transparent;
+    color: #a82c48;
+   
+}
